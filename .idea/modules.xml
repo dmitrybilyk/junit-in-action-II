@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch16-osgi/calculator-client/calculator-client.iml" filepath="$PROJECT_DIR$/ch16-osgi/calculator-client/calculator-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch16-osgi/calculator-service/calculator-service.iml" filepath="$PROJECT_DIR$/ch16-osgi/calculator-service/calculator-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch16-osgi/calculator-test/calculator-test.iml" filepath="$PROJECT_DIR$/ch16-osgi/calculator-test/calculator-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02-internals/ch02-internals.iml" filepath="$PROJECT_DIR$/ch02-internals/ch02-internals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06-stubs/ch06-stubs.iml" filepath="$PROJECT_DIR$/ch06-stubs/ch06-stubs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07-mocks/ch07-mocks.iml" filepath="$PROJECT_DIR$/ch07-mocks/ch07-mocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08-incontainer/ch08-incontainer.iml" filepath="$PROJECT_DIR$/ch08-incontainer/ch08-incontainer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch10-maven/ch10-maven.iml" filepath="$PROJECT_DIR$/ch10-maven/ch10-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch12-gui/ch12-gui.iml" filepath="$PROJECT_DIR$/ch12-gui/ch12-gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch13-ajax/ch13-ajax.iml" filepath="$PROJECT_DIR$/ch13-ajax/ch13-ajax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch14-cactus/ch14-cactus.iml" filepath="$PROJECT_DIR$/ch14-cactus/ch14-cactus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch15-jsfunit/ch15-jsfunit.iml" filepath="$PROJECT_DIR$/ch15-jsfunit/ch15-jsfunit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch16-osgi/ch16-osgi.iml" filepath="$PROJECT_DIR$/ch16-osgi/ch16-osgi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch17-dbunit/ch17-dbunit.iml" filepath="$PROJECT_DIR$/ch17-dbunit/ch17-dbunit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch18-jpa/ch18-jpa.iml" filepath="$PROJECT_DIR$/ch18-jpa/ch18-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch19-steroids/ch19-steroids.iml" filepath="$PROJECT_DIR$/ch19-steroids/ch19-steroids.iml" />
+      <module fileurl="file://$PROJECT_DIR$/junit-in-action-II.iml" filepath="$PROJECT_DIR$/junit-in-action-II.iml" />
+    </modules>
+  </component>
+</project>
