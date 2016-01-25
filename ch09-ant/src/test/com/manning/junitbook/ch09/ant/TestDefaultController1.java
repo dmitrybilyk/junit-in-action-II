@@ -20,6 +20,8 @@
  */
 package com.manning.junitbook.ch09.ant;
 
+import com.manning.junitbook.ch03.mastering.Controller;
+import com.manning.junitbook.ch03.mastering.DefaultController;
 import org.junit.Before;
 import org.junit.Test;
 

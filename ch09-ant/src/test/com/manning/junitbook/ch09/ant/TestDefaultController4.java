@@ -23,6 +23,10 @@ package com.manning.junitbook.ch09.ant;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 
+import com.manning.junitbook.ch03.mastering.DefaultController;
+import com.manning.junitbook.ch03.mastering.Request;
+import com.manning.junitbook.ch03.mastering.RequestHandler;
+import com.manning.junitbook.ch03.mastering.Response;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -54,7 +58,7 @@ public class TestDefaultController4
     private class TestHandler
         implements RequestHandler
     {
-        public Response process( Request request )
+        public Response process(Request request )
             throws Exception
         {
             return new TestResponse();

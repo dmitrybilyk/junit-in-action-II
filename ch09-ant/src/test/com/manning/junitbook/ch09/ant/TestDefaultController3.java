@@ -24,6 +24,10 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertSame;
 
+import com.manning.junitbook.ch03.mastering.DefaultController;
+import com.manning.junitbook.ch03.mastering.Request;
+import com.manning.junitbook.ch03.mastering.RequestHandler;
+import com.manning.junitbook.ch03.mastering.Response;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -62,7 +66,7 @@ public class TestDefaultController3
     private class TestHandler
         implements RequestHandler
     {
-        public Response process( Request request )
+        public Response process(Request request )
             throws Exception
         {
             return new TestResponse();

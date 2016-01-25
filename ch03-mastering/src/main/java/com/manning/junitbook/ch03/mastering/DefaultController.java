@@ -31,7 +31,7 @@ import java.util.Map;
 public class DefaultController implements Controller {
 	private Map<String, RequestHandler> requestHandlers = new HashMap<String, RequestHandler>();
 
-	protected RequestHandler getHandler(Request request) {
+	public RequestHandler getHandler(Request request) {
 		if (!this.requestHandlers.containsKey(request.getName())) {
 			String message = "Cannot find handler for request name " + "["
 					+ request.getName() + "]";
